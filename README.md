@@ -14,7 +14,9 @@ A movie-streaming service has low customer retention due to having no recommende
 ## Tools Used
 - Python
   - Streamlit
+- Comet
 - GitHub
+- AWS EC2 with S3 bucket
 
 ## Output
 
